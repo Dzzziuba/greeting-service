@@ -1,3 +1,3 @@
 spring:
   application:
-    name: greeting
+    name: greeting-service
